@@ -3,6 +3,8 @@ This is a plugin for the popular video editing software Adobe After Effects. It 
 
 # Instructions
 
+# Technology
+
 # Disclaimer
 
 # Credits
